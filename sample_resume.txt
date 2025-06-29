@@ -1,0 +1,5 @@
+Name: Riya S  
+Email: riya123@example.com  
+Skills: Python, SQL, Data Science, Power BI  
+Experience: 2 years at TCS as Data Analyst  
+Education: B.Tech in CSE, 2022 pass-out
